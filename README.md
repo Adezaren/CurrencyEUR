@@ -7,7 +7,7 @@ Databáze: MongoDB (Mongoose)
 
 Repozitář:
 
-git clone https://github.com/tvoje-jmeno/currency-converter.git
+https://github.com/Adezaren/CurrencyEUR
 
 
 API_KEY=18c80f421cf841e0ac5cb7357a6a7e21
