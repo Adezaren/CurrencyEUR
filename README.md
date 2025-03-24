@@ -3,7 +3,7 @@ Aplikace pro převod měny z EUR.
 Techologie:
 Backend: Node.js, Express.js
 Frontend: HTML, CSS, JavaScript (fetch API)
-Databáze: MongoDB (Mongoose)
+
 
 Repozitář:
 
