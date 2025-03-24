@@ -1,4 +1,4 @@
-const apiKey = '4cce2b5f82d26d6c819c6c22486071ef';
+const apiKey = '18c80f421cf841e0ac5cb7357a6a7e21';
 
 const fetchRate =  async (targetCurrency) => {
 
